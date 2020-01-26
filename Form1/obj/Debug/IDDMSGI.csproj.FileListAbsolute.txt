@@ -1,0 +1,150 @@
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\bin\Debug\MetroFramework.dll
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\obj\Debug\IDDMSGI.csprojResolveAssemblyReference.cache
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\obj\Debug\Form1.LoginForm.resources
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\obj\Debug\IDDMSGI.csproj.GenerateResource.Cache
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\obj\Debug\Form1.pdb
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\obj\Debug\Form1.RegistrationForm.resources
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\obj\Debug\Form1.SupervisorHomepage.resources
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\obj\Debug\Form1.OwnerHomepage.resources
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\obj\Debug\Form1.ManagerHomepage.resources
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\obj\Debug\Form1.ProductInfo.resources
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\obj\Debug\Form1.TeamInfo.resources
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\obj\Debug\Form1.WorkerInfo.resources
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\bin\Debug\DB.dll
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\bin\Debug\Information.dll
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\bin\Debug\Operations.dll
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\bin\Debug\DB.pdb
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\bin\Debug\Information.pdb
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\bin\Debug\Operations.pdb
+C:\Users\Msi\Documents\Visual Studio 2012\Projects\Form1\Form1\obj\Debug\Form1.SupervisorInfo.resources
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\bin\Debug\Form1.exe.config
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\bin\Debug\Form1.exe
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\bin\Debug\Form1.pdb
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\bin\Debug\DB.dll
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\bin\Debug\Information.dll
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\bin\Debug\MetroFramework.Design.dll
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\bin\Debug\MetroFramework.dll
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\bin\Debug\MetroFramework.Fonts.dll
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\bin\Debug\Operations.dll
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\bin\Debug\DB.pdb
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\bin\Debug\Information.pdb
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\bin\Debug\Operations.pdb
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\obj\Debug\IDDMSGI.csprojResolveAssemblyReference.cache
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\obj\Debug\Form1.SupervisorInfo.resources
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\obj\Debug\Form1.Form1.resources
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\obj\Debug\Form1.LoginForm.resources
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\obj\Debug\Form1.ManagerHomepage.resources
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\obj\Debug\Form1.OwnerHomepage.resources
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\obj\Debug\Form1.ProductInfo.resources
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\obj\Debug\Form1.RegistrationForm.resources
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\obj\Debug\Form1.SupervisorHomepage.resources
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\obj\Debug\Form1.TeamInfo.resources
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\obj\Debug\Form1.WorkerInfo.resources
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\obj\Debug\IDDMSGI.csproj.GenerateResource.Cache
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\obj\Debug\Form1.exe
+G:\SP1 2017\software\branches\v0.1\Form1\Form1\obj\Debug\Form1.pdb
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\Form1.exe
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\Form1.pdb
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\bin\Debug\Form1.exe.config
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\bin\Debug\Form1.exe
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\bin\Debug\Form1.pdb
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\bin\Debug\DB.dll
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\bin\Debug\Information.dll
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\bin\Debug\MetroFramework.Design.dll
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\bin\Debug\MetroFramework.dll
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\bin\Debug\MetroFramework.Fonts.dll
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\bin\Debug\Operations.dll
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\bin\Debug\DB.pdb
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\bin\Debug\Information.pdb
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\bin\Debug\Operations.pdb
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\IDDMSGI.csprojResolveAssemblyReference.cache
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\Form1.SupervisorInfo.resources
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\Form1.Form1.resources
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\Form1.LoginForm.resources
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\Form1.ManagerHomepage.resources
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\Form1.OwnerHomepage.resources
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\Form1.ProductInfo.resources
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\Form1.RegistrationForm.resources
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\Form1.SupervisorHomepage.resources
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\Form1.TeamInfo.resources
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\Form1.WorkerInfo.resources
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\IDDMSGI.csproj.GenerateResource.Cache
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\Form1.ProductUpdate.resources
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\Form1.SupervisorLog.resources
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\Form1.ManagerLog.resources
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\Form1.ManagerInfo.resources
+D:\8th semester\sp1\idms_repo\branches\v0.1\Form1\Form1\obj\Debug\Form1.OwnerInfo.resources
+G:\SP1\Form1\Form1\bin\Debug\Form1.exe.config
+G:\SP1\Form1\Form1\obj\Debug\Form1.exe
+G:\SP1\Form1\Form1\obj\Debug\Form1.pdb
+G:\SP1\Form1\Form1\bin\Debug\Form1.exe
+G:\SP1\Form1\Form1\bin\Debug\Form1.pdb
+G:\SP1\Form1\Form1\bin\Debug\DB.dll
+G:\SP1\Form1\Form1\bin\Debug\Information.dll
+G:\SP1\Form1\Form1\bin\Debug\MetroFramework.Design.dll
+G:\SP1\Form1\Form1\bin\Debug\MetroFramework.dll
+G:\SP1\Form1\Form1\bin\Debug\MetroFramework.Fonts.dll
+G:\SP1\Form1\Form1\bin\Debug\Operations.dll
+G:\SP1\Form1\Form1\bin\Debug\DB.pdb
+G:\SP1\Form1\Form1\bin\Debug\Information.pdb
+G:\SP1\Form1\Form1\bin\Debug\Operations.pdb
+G:\SP1\Form1\Form1\obj\Debug\IDDMSGI.csprojResolveAssemblyReference.cache
+G:\SP1\Form1\Form1\obj\Debug\Form1.ManagerLog.resources
+G:\SP1\Form1\Form1\obj\Debug\Form1.ManagerInfo.resources
+G:\SP1\Form1\Form1\obj\Debug\Form1.OwnerInfo.resources
+G:\SP1\Form1\Form1\obj\Debug\Form1.ProductUpdate.resources
+G:\SP1\Form1\Form1\obj\Debug\Form1.SupervisorInfo.resources
+G:\SP1\Form1\Form1\obj\Debug\Form1.Form1.resources
+G:\SP1\Form1\Form1\obj\Debug\Form1.LoginForm.resources
+G:\SP1\Form1\Form1\obj\Debug\Form1.ManagerHomepage.resources
+G:\SP1\Form1\Form1\obj\Debug\Form1.OwnerHomepage.resources
+G:\SP1\Form1\Form1\obj\Debug\Form1.ProductInfo.resources
+G:\SP1\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+G:\SP1\Form1\Form1\obj\Debug\Form1.RegistrationForm.resources
+G:\SP1\Form1\Form1\obj\Debug\Form1.SupervisorHomepage.resources
+G:\SP1\Form1\Form1\obj\Debug\Form1.SupervisorLog.resources
+G:\SP1\Form1\Form1\obj\Debug\Form1.TeamInfo.resources
+G:\SP1\Form1\Form1\obj\Debug\Form1.WorkerInfo.resources
+G:\SP1\Form1\Form1\obj\Debug\IDDMSGI.csproj.GenerateResource.Cache
+C:\Users\Md Noman\Desktop\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\Form1.pdb
+C:\Users\Md Noman\Desktop\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\Md Noman\Desktop\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\Md Noman\Desktop\Form1\Form1\bin\Debug\DB.dll
+C:\Users\Md Noman\Desktop\Form1\Form1\bin\Debug\Information.dll
+C:\Users\Md Noman\Desktop\Form1\Form1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Md Noman\Desktop\Form1\Form1\bin\Debug\MetroFramework.dll
+C:\Users\Md Noman\Desktop\Form1\Form1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Md Noman\Desktop\Form1\Form1\bin\Debug\Operations.dll
+C:\Users\Md Noman\Desktop\Form1\Form1\bin\Debug\DB.pdb
+C:\Users\Md Noman\Desktop\Form1\Form1\bin\Debug\Information.pdb
+C:\Users\Md Noman\Desktop\Form1\Form1\bin\Debug\Operations.pdb
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\IDDMSGI.csprojResolveAssemblyReference.cache
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\Form1.ManagerLog.resources
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\Form1.ManagerInfo.resources
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\Form1.OwnerInfo.resources
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\Form1.ProductUpdate.resources
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\Form1.SupervisorInfo.resources
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\Form1.LoginForm.resources
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\Form1.ManagerHomepage.resources
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\Form1.OwnerHomepage.resources
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\Form1.ProductInfo.resources
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\Form1.RegistrationForm.resources
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\Form1.SupervisorHomepage.resources
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\Form1.SupervisorLog.resources
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\Form1.TeamInfo.resources
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\Form1.WorkerInfo.resources
+C:\Users\Md Noman\Desktop\Form1\Form1\obj\Debug\IDDMSGI.csproj.GenerateResource.Cache

@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1E3BA584-543B-4EC2-8E08-E0809E3FD59C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Form1</RootNamespace>
+    <AssemblyName>Form1</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Global.cs" />
+    <Compile Include="ManagerLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerLog.Designer.cs">
+      <DependentUpon>ManagerLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerInfo.Designer.cs">
+      <DependentUpon>ManagerInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OwnerInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OwnerInfo.Designer.cs">
+      <DependentUpon>OwnerInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductUpdate.Designer.cs">
+      <DependentUpon>ProductUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupervisorInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupervisorInfo.Designer.cs">
+      <DependentUpon>SupervisorInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerHomepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerHomepage.Designer.cs">
+      <DependentUpon>ManagerHomepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OwnerHomepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OwnerHomepage.Designer.cs">
+      <DependentUpon>OwnerHomepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductInfo.Designer.cs">
+      <DependentUpon>ProductInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistrationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationForm.Designer.cs">
+      <DependentUpon>RegistrationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupervisorHomepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupervisorHomepage.Designer.cs">
+      <DependentUpon>SupervisorHomepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupervisorLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupervisorLog.Designer.cs">
+      <DependentUpon>SupervisorLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeamInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeamInfo.Designer.cs">
+      <DependentUpon>TeamInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WorkerInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkerInfo.Designer.cs">
+      <DependentUpon>WorkerInfo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ManagerLog.resx">
+      <DependentUpon>ManagerLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerInfo.resx">
+      <DependentUpon>ManagerInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OwnerInfo.resx">
+      <DependentUpon>OwnerInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductUpdate.resx">
+      <DependentUpon>ProductUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupervisorInfo.resx">
+      <DependentUpon>SupervisorInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerHomepage.resx">
+      <DependentUpon>ManagerHomepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OwnerHomepage.resx">
+      <DependentUpon>OwnerHomepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductInfo.resx">
+      <DependentUpon>ProductInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegistrationForm.resx">
+      <DependentUpon>RegistrationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupervisorHomepage.resx">
+      <DependentUpon>SupervisorHomepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupervisorLog.resx">
+      <DependentUpon>SupervisorLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeamInfo.resx">
+      <DependentUpon>TeamInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkerInfo.resx">
+      <DependentUpon>WorkerInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\garment-manufacturing.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\garment-manufacturing1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MetroFramework.txt" />
+    <None Include="Resources\Prev-Page.png" />
+    <None Include="Resources\back-icon.png" />
+    <None Include="Resources\product-owner-attributes.png" />
+    <None Include="Resources\button1.png" />
+    <None Include="Resources\button.png" />
+    <None Include="Resources\login_1.png" />
+    <None Include="Resources\white-interlocking-gears-with-human-figure-in-center3.png" />
+    <None Include="Resources\AAEAAQAAAAAAAAW7AAAAJDc3Y2E0OTgzLTJiMDktNDZlNi04NDU2LTQ2NmU5MGY3M2VhMA.png" />
+    <None Include="Resources\register20open.jpg" />
+    <None Include="Resources\1311880771_login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DB\DB.csproj">
+      <Project>{64cf520d-1f5b-45e0-8358-9518a663ff36}</Project>
+      <Name>DB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Information\Information.csproj">
+      <Project>{2e220460-1840-432b-8734-4cdcb10382c2}</Project>
+      <Name>Information</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Operations\Operations.csproj">
+      <Project>{0f67e785-4567-4e96-a457-a2ac63a3e9c6}</Project>
+      <Name>Operations</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

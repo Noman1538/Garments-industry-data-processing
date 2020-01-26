@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<!-- Select a Product Configuration -->
+		<InstallShieldProductConfiguration>Express</InstallShieldProductConfiguration>
+		<!-- Select a Visual Studio Configuration / InstallShield Release -->
+		<Configuration>Debug</Configuration>
+		<InstallShieldRelease>$(Configuration)</InstallShieldRelease>
+	</PropertyGroup>
+	<ItemGroup>
+		<!-- The InstallShieldProject item selects the project to build -->
+		<InstallShieldProject Include="$(MSBuildProjectDirectory)\$(MSBuildProjectName).isl"/>
+		<!-- The InstallShieldReleaseFlags sets Release Flags -->
+		<!--<InstallShieldReleaseFlags Include=""/>-->
+		<!-- The InstallShieldMergeModulePath specifies what directories are
+		searched for Merge Modules -->
+		<!--<InstallShieldMergeModulePath Include=""/>-->
+	</ItemGroup>
+	<ItemGroup>
+		<!-- The ProjectReference items refer to any Visual Studio solutions you want to automatically probe for Project Output Groups.  -->
+	</ItemGroup>
+	<ItemGroup>
+		<!-- The TaggedOutputs items allow you to explicitly add extra files to output groups. Each item must include both Name and OutputGroup, as well as TargetPath metadata values. -->
+		<!--<TaggedOutputs Include="C:\My Test Exe.exe">
+			<Name>My Test Project</Name>
+			<OutputGroup>Primary output</OutputGroup>
+			<TargetPath>My Test Exe.exe</TargetPath>
+		</TaggedOutputs> -->
+	</ItemGroup>
+	<Import Project="$(MSBuildExtensionsPath32)\InstallShield\2015Limited\InstallShield.targets"/>
+	<ItemGroup>
+		<ProjectReference Include="..\DB\DB.csproj">
+			<Name>DB</Name>
+			<Project>{64CF520D-1F5B-45E0-8358-9518A663FF36}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Form1\IDDMSGI.csproj">
+			<Name>IDDMSGI</Name>
+			<Project>{1E3BA584-543B-4EC2-8E08-E0809E3FD59C}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Information\Information.csproj">
+			<Name>Information</Name>
+			<Project>{2E220460-1840-432B-8734-4CDCB10382C2}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Operations\Operations.csproj">
+			<Name>Operations</Name>
+			<Project>{0F67E785-4567-4E96-A457-A2AC63A3E9C6}</Project>
+		</ProjectReference>
+	</ItemGroup>
+</Project>
